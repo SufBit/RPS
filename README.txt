@@ -1,6 +1,6 @@
-# Rock Paper Scissors game implement Zeijiang Algorithim in C++
+# Rock paper Scissors game implementing Zeijiang Algorithim
 
-How to compile and run: 
+## How to compile and run: 
     g++ RPS.cpp strat1.cpp
     ./a.out
 
